@@ -3,17 +3,23 @@
     {
       "heading": "Hello UIUC!",
       "subheading": "Starting a new journey",
-      "description": "I am excited to announce ..."
+      "description": "I am excited to announce ...",
+      "imgUrl": "fdfd",
+      "description":"dfdfdfdfdfd"
     },
     {
-      "heading": "Ram",
-      "subheading": "ram@gmail.com",
-      "description": 23
+      "heading": "Ram!",
+      "subheading": "Ramm is a guy",
+      "description": "I am excited to announce ...",
+      "imgUrl": "fdfd",
+      "description":"dfdfdfdfdfd"
     },
     {
-      "heading": "Ram",
-      "subheading": "ram@gmail.com",
-      "description": 23
+      "heading": "Shaymma!",
+      "subheading": "Starting a new journey",
+      "description": "I am excited to announce ...",
+      "imgUrl": "fdfd",
+      "description":"dfdfdfdfdfd"
     }
   ]
 }
